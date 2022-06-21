@@ -1,0 +1,1 @@
+This is my firstn .txt file in git Bash
